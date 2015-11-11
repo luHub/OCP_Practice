@@ -8,7 +8,7 @@ public class TestDates {
 	
 	public TestDates(){
 		
-		Locale loc = new Locale.Builder().setLanguage("us").setRegion("US")..build();
+		Locale loc = new Locale.Builder().setLanguage("us").setRegion("US").build();
 		Locale.setDefault(loc);
 		
 		Date date =  new Date(1_000_000_000_000L);
