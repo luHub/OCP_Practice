@@ -1,4 +1,4 @@
-package datesCalendar;
+package chapter8.datesCalendar;
 
 import java.sql.Date;
 import java.text.DateFormat;
